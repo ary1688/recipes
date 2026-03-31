@@ -4,6 +4,8 @@
 * lime
 * red onions
 * salt
+* cilantro
+* pepper
 
 ## Instructions
 1. Mash avocados
